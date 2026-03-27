@@ -2,9 +2,13 @@
 DoubleTrouble's submission for Hackathon.
 
 #NeuroBudget
+
 #-“Track, predict, and redesign your digital brain.”
 
 #Problem Statement
+
+
+
 📱 Apps today compete aggressively for our attention, just like companies compete for money.
 💰 We carefully track our finances, but we have no system to track where our brain’s time and attention are being spent.
 🔄 Endless scrolling and digital platforms quietly occupy our cognitive space, often without us realizing it.
@@ -14,6 +18,8 @@ DoubleTrouble's submission for Hackathon.
 
 
 #Solution Overview
+
+
 -NeuroBudget helps users understand how their digital habits shape their brain and attention.
 -The platform collects information about daily screen time across different apps such as social media, streaming, and productivity tools.   
 -Using simple prediction logic, it estimates how much time a user might spend on different platforms in the upcoming week.
