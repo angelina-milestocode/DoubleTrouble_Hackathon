@@ -1,11 +1,11 @@
 # DoubleTrouble_Hackathon
 DoubleTrouble's submission for Hackathon.
 
-#NeuroBudget
+# NeuroBudget
 
-#-“Track, predict, and redesign your digital brain.”
+# -“Track, predict, and redesign your digital brain.”
 
-#Problem Statement
+# Problem Statement
 
 
 
@@ -17,7 +17,7 @@ DoubleTrouble's submission for Hackathon.
 🚀 And more importantly, what if we could redesign our digital habits before they shape who we become?
 
 
-#Solution Overview
+# Solution Overview
 
 
 -NeuroBudget helps users understand how their digital habits shape their brain and attention.
